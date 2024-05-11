@@ -18,4 +18,6 @@ It correctly bundles React in production mode and optimizes the build for the be
 The build is minified and the filenames include the hashes.\
 Your app is ready to be deployed!
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+
+![web-ss](https://github.com/Upasara/Upasara-Upasara-Upasara-Tea_Farmer_Management_System-Web_App/assets/64368905/454eb547-a9d9-4e2a-93ea-e6d97761fe48)
+
