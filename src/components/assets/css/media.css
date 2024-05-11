@@ -1,0 +1,63 @@
+@media (min-width: 200px) and (max-device-width: 440px) {
+
+    .colorchangeback {
+        color: white !important;
+        margin-bottom: 10px;
+        width: 100%;
+        border-radius: 5px;
+        background-color: gray !important;
+    }
+
+    .box .btn-component {
+        padding-top: 10px;
+        padding-bottom: 10px;
+        display: block;
+        justify-content: space-between;
+    }
+
+    .colorchangeLog {
+        background-color: #2d4366 !important;
+        color: white !important;
+        border-radius: 5px;
+        display: flex !important;
+        width: 100%;
+        align-items: center;
+        text-align: center !important;
+    }
+
+    .width-100{
+        width: 100%;
+        text-align: center;
+    }
+}
+
+@media only screen and (min-device-width: 320px) and (max-device-width: 770px) and (-webkit-min-device-pixel-ratio: 2) and (orientation: portrait) {}
+
+
+@media (max-width: 992px) {
+    .categorie-grid {
+        padding: 50px 30px;
+        text-align: center;
+        border-radius: 5px;
+        min-height: 44vh;
+        -webkit-transition: var(--transition);
+        transition: var(--transition);
+    }
+    .accHegiht {
+        height: 0px;
+    }
+
+    .breadcrumb-style-3 {
+        padding: 0px;
+    }
+
+    .edu-section-gap {
+        padding: 0px 0 80px;
+    }
+}
+
+@media (max-width: 1200px) {}
+
+@media (max-width: 832px) {}
+
+@media (max-width: 575px) {}

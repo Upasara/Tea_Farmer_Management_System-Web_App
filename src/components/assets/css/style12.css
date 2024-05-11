@@ -1,0 +1,450 @@
+.selected-side {
+  color: #ff8b03 !important;
+}
+
+.cursor-pointer {
+  cursor: pointer;
+}
+
+.subscriptionCard {
+  box-sizing: border-box;
+  border: none;
+  padding: none;
+  background: #ffffff;
+  border: 1.5px solid #d2dcff;
+  border-radius: 4px;
+}
+
+.avatar-img {
+  vertical-align: middle;
+  width: 30px;
+  height: 30px;
+  border-radius: 50%;
+}
+
+.imageFit {
+  object-fit: cover;
+}
+
+.avatar-2xl {
+  height: 7.5rem;
+  width: 7.5rem;
+}
+
+.avatar-2xl-table {
+  height: 2.5rem;
+  width: 2.5rem;
+}
+
+.profileImageShow {
+  background-repeat: no-repeat;
+  background-position: center center;
+  background-size: cover;
+}
+
+
+.subscribed {
+  background-color: #19c719;
+  padding-bottom: 4px;
+  padding-right: 10px;
+  color: white;
+  padding-top: 4px;
+  padding-left: 10px;
+  border-radius: 28px;
+}
+
+.items-center {
+  align-items: center;
+}
+
+.subscriptionCardTitle {
+  /* position: absolute; */
+  height: 57px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background: #d2dcff;
+  border-radius: 0px solid #d2dcff;
+  /* border-radius: 4px 5px 0px 0px solid #D2DCFF; */
+  /* font-family: 'Inter'; */
+  font-style: normal;
+  font-weight: 700;
+  font-size: 14px;
+  line-height: 17px;
+
+  /* identical to box height */
+
+  color: #000000;
+}
+
+.SubscriptionAmount {
+  font-style: normal;
+  font-weight: 700;
+  font-size: 40px;
+  line-height: 48px;
+
+  color: #000000;
+}
+
+.SubscriptionPeriod {
+  margin-top: -15px;
+  font-style: normal;
+  font-weight: 400;
+  font-size: 14px;
+  line-height: 17px;
+
+  /* identical to box height */
+
+  color: #000000;
+}
+
+.SubscriptionUserCount {
+  font-style: normal;
+  font-weight: 500;
+  font-size: 14px;
+  line-height: 17px;
+
+  /* identical to box height */
+
+  color: #000000;
+}
+
+.SubscriptionUserCountAdd {
+  font-style: normal;
+  font-weight: 700;
+  font-size: 20px;
+  line-height: 24px;
+  text-decoration-line: underline;
+
+  color: #000000;
+}
+
+.subscriptionPayBtn {
+  width: 91px;
+  height: 37px;
+  border: 0;
+  background: #5d5af2;
+  border-radius: 4px;
+  font-style: normal;
+  font-weight: 600;
+  font-size: 14px;
+  line-height: 17px;
+
+  /* identical to box height */
+  text-align: center;
+
+  color: #ffffff;
+}
+
+.avatar-2xl {
+  height: 7.5rem;
+  width: 7.5rem;
+}
+
+.avatar-md {
+  height: 4.5rem;
+  width: 4.5rem;
+}
+
+.avatar-md-table {
+  height: 2.5rem;
+  width: 2.5rem;
+}
+
+.text-size-avatr-table {
+  font-size: 19px;
+  font-weight: 900;
+  color: white;
+}
+
+
+.mx-auto {
+  margin-right: auto !important;
+  margin-left: auto !important;
+}
+
+.avatar-title {
+  background-size: cover;
+  background-position: center center;
+}
+
+.rounded-circle {
+  border-radius: 50% !important;
+}
+
+.card-avatar {
+  background-color: #2a3042;
+}
+
+.font-size-16 {
+  font-size: 16px !important;
+}
+
+.text-center-div {
+  margin: 0;
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  text-align: center;
+}
+
+.relative {
+  position: relative;
+}
+
+.text-size-avatr {
+  font-size: 25px;
+  font-weight: 900;
+  color: white;
+}
+
+.card-text-name {
+  font-size: 18px;
+  font-weight: 600;
+  display: block;
+  color: #000000;
+}
+
+.card-text-email {
+  font-size: 16px;
+  font-weight: 500;
+  color: #000000;
+  display: block;
+}
+
+.btn-profile {
+  padding-left: 18px;
+  padding-right: 18px;
+  padding-top: 6px;
+  padding-bottom: 6px;
+  border-radius: 4px;
+  width: 118px;
+  height: 37px;
+  font-size: 12px;
+  background-color: #5d5af2;
+  color: white;
+  border-color: #5d5af2;
+}
+
+.btn-profile:hover {
+  background-color: #5d5af2;
+  color: white;
+  border-color: #5d5af2;
+}
+
+.card-text-total {
+  font-size: 14px;
+  font-weight: 600;
+  padding-left: 2px;
+
+  color: #2a3042;
+}
+
+.card-text-count {
+  font-size: 22px;
+  font-weight: 600;
+  color: #000000;
+}
+
+.boxHeight {
+  height: 68px;
+}
+
+.textCenter {
+  text-align: center;
+  padding-bottom: 5px;
+  align-items: center;
+  padding-top: 5px;
+  justify-items: center;
+  justify-content: center;
+  margin: auto;
+}
+
+.textCenterTop {
+  text-align: center;
+  padding-bottom: 5px;
+  align-items: center;
+  padding-top: 5px;
+  justify-items: center;
+  justify-content: center;
+  margin: auto;
+}
+
+.textCenterSubs {
+  text-align: center;
+  margin-bottom: 15px;
+  margin-top: 11px;
+}
+
+.btn-customer {
+  padding-left: 18px;
+  padding-right: 18px;
+  padding-top: 6px;
+  padding-bottom: 6px;
+  width: 153px;
+  height: 42px;
+  float: right;
+  border-radius: 4px;
+  width: auto;
+  font-size: 12px;
+  background-color: #555172;
+  color: white;
+  border-color: #555172;
+}
+
+.btn-customer:hover {
+  background-color: #555172;
+  color: white;
+  border-color: #555172;
+}
+
+.btn-save {
+  padding-left: 18px;
+  padding-right: 18px;
+  padding-top: 6px;
+  padding-bottom: 6px;
+  float: right;
+  border-radius: 4px;
+  width: auto;
+  font-size: 12px;
+  background-color: #5d5af2;
+  color: white;
+  border-color: #5d5af2;
+}
+
+.btn-save:hover {
+  background-color: #5d5af2;
+  color: white;
+  border-color: #5d5af2;
+}
+
+.text-right {
+  text-align: end !important;
+  padding-left: 75px;
+}
+
+.input-search {
+  border-radius: 20px !important;
+  width: 270px;
+  font-size: 14px;
+  float: right;
+  background-color: #eeeeee;
+  border-color: #eeeeee;
+  margin-right: 30px !important;
+  color: #2a3042;
+}
+
+.card-text-plan {
+  font-size: 12px;
+  font-weight: 600;
+  color: #04ac6f;
+}
+
+.buttonGroup {
+  display: flex !important;
+  padding: 4px 14px;
+  cursor: pointer;
+  border-radius: 4px;
+}
+
+.updateBtn {
+  padding: 1px;
+  margin: 2px;
+  padding: 4px 14px;
+  background: #5d5af2;
+  border-color: #5d5af2;
+  color: #ffffff;
+}
+
+.activeBtn {
+  padding: 1px;
+  margin: 2px;
+  padding: 4px 14px;
+  background: #0ab913;
+  border-color: #0ab913;
+  color: #ffffff;
+}
+
+.inactiveBtn {
+  padding: 1px;
+  margin: 2px;
+  padding: 4px 14px;
+  background: #cb0b50;
+  border-color: #cb0b50;
+  color: #ffffff;
+}
+
+.inactiveBtn:hover {
+  background-color: #cb0b50;
+  color: white;
+  border-color: #cb0b50;
+}
+
+.activeBtn:hover {
+  background-color: #0ab913;
+  color: white;
+  border-color: #0ab913;
+}
+
+.updateBtn:hover {
+  background-color: #5d5af2;
+  color: white;
+  border-color: #5d5af2;
+}
+
+.deleteBtn {
+  padding: 1px;
+  margin: 2px;
+  padding: 4px 14px;
+  background: #cb0b50;
+  border-color: #cb0b50;
+  color: #ffffff;
+}
+
+.deleteBtn:hover {
+  background-color: #cb0b50;
+  color: white;
+  border-color: #cb0b50;
+}
+
+.tbHead {
+  background-color: #d2dcff;
+  color: #000000;
+}
+
+.textRight {
+  text-align: end !important;
+  padding-left: 75px;
+}
+
+.newSign {
+  color: #000000;
+  font-size: 14px;
+  margin-right: 120px;
+}
+
+.signup-box {
+  /* max-width: 144px; */
+  /* width: 60%; */
+  padding: 40px 20px;
+  margin: 5px auto;
+}
+
+.signupBtn {
+  width: auto;
+}
+
+/* hide input number arrows */
+input::-webkit-inner-spin-button {
+  -webkit-appearance: none;
+  margin: 0;
+}
+
+#sign {
+  border: none;
+}
+
+#date {
+  border: none;
+}
